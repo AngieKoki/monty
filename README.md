@@ -1,4 +1,4 @@
-# TEAM PROJECT: AN INTERPRETER FOR MONTY BYECODE FILES
+# AN INTERPRETER FOR MONTY BYECODE FILES
 
 ## Project  Description
 _______________________
